@@ -63,7 +63,7 @@ class FormPersonalDetail extends Component {
           </List>
           <br />
           <RaisedButton
-            label="Continue"
+            label="Confirm & Continue"
             primary={true}
             style={styles.button}
             onClick={this.continue}
